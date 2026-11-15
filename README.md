@@ -74,10 +74,10 @@
 ## 📥 Скачать / Download
 
 ### APK (Android)
-📥 **[Скачать последнюю версию (v1.0.0)](https://github.com/Paminabea/starshift-game/releases/latest)**
+📥 **[Скачать последнюю версию (v1.3)](https://github.com/Paminabea/Starshift-app/releases/download/v1.3/StarShift_V_1_3.apk)**
 
 ### Магазины приложений / App Stores
-- [RuStore]() *()*
+- [RuStore]() *(https://www.rustore.ru/catalog/app/com.starshift.app)*
 - [Huawei AppGallery]() *()*
 
 ## 🛠️ Технологии / Tech Stack
