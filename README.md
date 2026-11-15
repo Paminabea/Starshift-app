@@ -87,10 +87,3 @@
 - **CSS3** — интерфейс и меню
 - **Capacitor/Cordova** — упаковка в APK
 
-## 🚀 Быстрый старт / Quick Start
-
-### Локальный запуск / Local Run
-```bash
-git clone https://github.com/Paminabea/starshift-game.git
-cd starshift-game
-# Откройте index.html в браузере
