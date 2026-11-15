@@ -63,8 +63,6 @@
 <td><img src="screen1.jpg" width="200" alt="Главный экран"/></td>
 <td><img src="screen2.jpg" width="200" alt="Геймплей"/></td>
 <td><img src="screen3.jpg" width="200" alt="Магазин"/></td>
-</tr>
-<tr>
 <td><img src="screen4.jpg" width="200" alt="Прокачка"/></td>
 <td><img src="screen5.jpg" width="200" alt="Достижения"/></td>
 </tr>
