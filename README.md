@@ -12,11 +12,6 @@
 
 </div>
 
-## 🎞️ История создания / The Story Behind
-
-🇷🇺 Я всегда любил классические космические аркады — те, где можно просто взять телефон, запустить игру и улететь в космос без интернета и рекламы. Но современные мобильные игры часто перегружены микротранзакциями и требуют постоянного подключения. Так появилась идея создать Starshift — честную аркаду, где весь контент доступен за игровые достижения, а не за деньги.
-
-🇬🇧 I've always loved classic space arcades — the kind where you can just pick up your phone, launch the game, and fly into space without internet or ads. But modern mobile games are often overloaded with microtransactions and require constant connection. That's how the idea for Starshift was born — an honest arcade where all content is unlocked through gameplay achievements, not money.
 
 ## ✨ Ключевые особенности / Key Features
 
