@@ -88,6 +88,6 @@
 GitHub: [@Paminabea](https://github.com/Paminabea) | Email: paminabea@gmail.com
 
 ## 📄 Лицензия / License
-MIT License — см. файл [LICENSE](LICENSE)
+Apache-2.0 license — см. файл [LICENSE](LICENSE)
 
 
